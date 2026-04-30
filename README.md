@@ -6,3 +6,6 @@ Placeholder sentence
 
 # How to build
 Placeholder sentence
+
+# How to run
+Placeholder sentence
