@@ -2,6 +2,7 @@
 Placeholder sentence
 
 # Our favorite games
+- Pokemon X
 Placeholder sentence
 
 # How to build
