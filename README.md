@@ -3,6 +3,7 @@ Placeholder sentence
 
 # Our favorite games
 Placeholder sentence
+- Rhythm Heaven
 
 # How to build
 Placeholder sentence
