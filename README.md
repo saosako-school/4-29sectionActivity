@@ -1,5 +1,5 @@
 # About this project
-Placeholder sentence
+4/29/26 section activity
 
 # Our favorite games
 Placeholder sentence
