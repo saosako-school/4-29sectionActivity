@@ -5,6 +5,7 @@ Placeholder sentence
 Placeholder sentence
 - Pokemon X
 - Undertale
+- Rhythm Heaven
 
 # How to build
 Placeholder sentence
