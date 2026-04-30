@@ -2,9 +2,8 @@
 Placeholder sentence
 
 # Our favorite games
-- Pokemon X
 Placeholder sentence
-- Rhythm Heaven
+- Pokemon X
 
 # How to build
 Placeholder sentence
